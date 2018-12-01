@@ -9,24 +9,20 @@ Clone this reposoitory
 
 ```
 git clone  https://github.com/flormich/expression-lamba 
-
 ```
 
 ## ✨️ Usage
 <br>
+Exercice
+<br>
 
 ## 📺 [Demo]
 
-<p align="center"
-  
- ![logo](expressionLambda.gif)
- 
+<br>
+<p align="center"  
+ ![logo](expressionLambda.gif) 
 </p>
-
-
-
-
-
+<br>
 
 ## ©️ Copyright
 This project is under the MIT LICENSE
