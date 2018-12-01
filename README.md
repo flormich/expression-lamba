@@ -19,8 +19,10 @@ Exercice
 ## 📺 [Demo]
 
 <br>
-<p align="center"  
+<p align="center"> 
+
  ![logo](expressionLambda.gif) 
+
 </p>
 <br>
 
